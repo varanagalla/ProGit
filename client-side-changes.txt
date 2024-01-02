@@ -1,1 +1,2 @@
 First commit for client side changes.
+Adding this line to be able to commit a single line vs whole file
